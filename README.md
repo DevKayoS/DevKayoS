@@ -4,5 +4,7 @@
 
 ###
 -- 🤖Atualmente estou estudando React, TypeScript, TailWind Css, implementação de APIs, criação de APIs RESTFull.
+
 -- 🐱‍👤Futuramente pretendo estudar mais profundamente sobre back-end utilizando Node.js
+
 -- 👽Sempre estou estudando e me aperfeiçoando mais todos os dias, a frase "faça pouco ou faça muito, mas FAÇA" é algo que eu acredito fielmente
