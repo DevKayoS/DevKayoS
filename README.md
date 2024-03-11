@@ -1,6 +1,6 @@
 # Kayo Vinicius 👨‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kayo%20Ribeiro-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kayo-vinicius-a149ba260)](www.linkedin.com/in/kayo-vinicius-a149ba260) 
+[![Linkedin Badge](https://img.shields.io/badge/-Kayo%20Ribeiro-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kayo-vinicius-a149ba260)](www.linkedin.com/in/kayo-vinicius-a149ba260) 
 [![Gmail Badge](https://img.shields.io/badge/-kayoribeirodev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kayoribeirodev@gmail.com)](mailto:kayoribeirodev@gmail.com)
 
 
