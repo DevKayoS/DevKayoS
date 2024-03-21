@@ -14,6 +14,8 @@
 
  Olá, tenho 18 anos, sou apaixonado por programação e adoro criar novas aplicações com as minhas ideias, gosto muito de fazer manutenção e atualizações nas minhas aplicações, pois sinto que estou aperfeiçoando cada vez mais meu projeto!!
 
+Por favor veja meu portifolio clicando <a href = "https://dub.sh/kayo"> aqui </a>
+
 ##
  Atualmente estou estudando e fazendo projetos com:
  <div style="display: inline_block">
