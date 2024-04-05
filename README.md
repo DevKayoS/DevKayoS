@@ -1,8 +1,10 @@
 ## Olá muito prazer, me chamo Kayo Vinicius 
 
+  
+![DevKayoS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKayoS&show_icons=true&theme=radical)
 
-  ![DevKayoS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKayoS&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevKayoS&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevKayoS&layout=compact&theme=radical)
+
 
 
 <div> 
@@ -12,7 +14,7 @@
   
 </div>
 
- Olá, tenho 18 anos, sou apaixonado por programação e adoro criar novas aplicações com as minhas ideias, gosto muito de fazer manutenção e atualizações nas minhas aplicações, pois sinto que estou aperfeiçoando cada vez mais meu projeto!!
+ tenho 18 anos, sou apaixonado por programação e adoro criar novas aplicações com as minhas ideias, gosto muito de fazer manutenção e atualizações nas minhas aplicações, pois sinto que estou aperfeiçoando cada vez mais meu projeto!!
 
 Por favor veja meu portifolio clicando <a href = "https://dub.sh/kayo"> aqui </a>
 
