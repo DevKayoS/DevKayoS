@@ -1,19 +1,18 @@
-## Hello World, my name's Kayo
-
-<div> 
-  <a href="https://www.instagram.com/_kayo.v?igsh=ZmFwNmxnYXcyaTV1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kayoribeirodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kayo-vinicius-a149ba260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
+# Hello World, my name's Kayo
 
 I'm 18 years old, passionate about programming, and I love creating new applications from my ideas. I also enjoy maintaining and updating my projects, as it makes me feel like I'm constantly improving them.
 
 Please check out my portfolio by clicking: 
 <br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://dub.sh/kayo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=todoist&logoColor=white)](https://dub.sh/kayo)
 
+## Conecte-se comigo
+<div> 
+  <a href="https://www.instagram.com/_kayo.v?igsh=ZmFwNmxnYXcyaTV1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kayoribeirodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kayo-vinicius-a149ba260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 ##
   My technologies are:
  <div style="display: inline_block">
