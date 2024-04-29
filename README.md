@@ -6,7 +6,8 @@ Please check out my portfolio by clicking:
 <br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=todoist&logoColor=white)](https://dub.sh/kayo)
 
-## Conecte-se comigo
+## Connect with me: 
+
 <div> 
   <a href="https://www.instagram.com/_kayo.v?igsh=ZmFwNmxnYXcyaTV1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kayoribeirodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
