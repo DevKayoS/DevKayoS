@@ -39,6 +39,8 @@ In the future, I plan to study:
 
 <br>
 
+## Github stats
+
 ![DevKayoS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKayoS&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DevKayoS&theme=radical)](https://git.io/streak-stats)
 
