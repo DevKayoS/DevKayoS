@@ -14,7 +14,9 @@ Please check out my portfolio by clicking:
   <a href="https://www.linkedin.com/in/kayo-vinicius-a149ba260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 ## My technologies are:
+
  <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
