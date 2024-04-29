@@ -1,11 +1,4 @@
-## Olá muito prazer, me chamo Kayo Vinicius 
-
-  
-![DevKayoS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKayoS&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevKayoS&layout=compact&theme=radical)
-
-
+## Hello World, my name's Kayo
 
 <div> 
   <a href="https://www.instagram.com/_kayo.v?igsh=ZmFwNmxnYXcyaTV1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -14,12 +7,15 @@
   
 </div>
 
- tenho 18 anos, sou apaixonado por programação e adoro criar novas aplicações com as minhas ideias, gosto muito de fazer manutenção e atualizações nas minhas aplicações, pois sinto que estou aperfeiçoando cada vez mais meu projeto!!
 
-Por favor veja meu portifolio clicando <a href = "https://dub.sh/kayo"> aqui </a>
+I'm 18 years old, passionate about programming, and I love creating new applications from my ideas. I also enjoy maintaining and updating my projects, as it makes me feel like I'm constantly improving them.
+
+Please check out my portfolio by clicking: 
+<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://dub.sh/kayo)
 
 ##
- Atualmente estou estudando e fazendo projetos com:
+  My main technologies are:
  <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -32,11 +28,21 @@ Por favor veja meu portifolio clicando <a href = "https://dub.sh/kayo"> aqui </a
 
 <br>
 
- Futuramente pretendo estudar:
+In the future, I plan to study:
 <div style="display: inline_block">
  <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
  <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+
+<br>
+
+![DevKayoS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKayoS&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DevKayoS&theme=radical)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevKayoS&layout=compact&theme=radical)
+
+
 
 
  
