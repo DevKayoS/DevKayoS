@@ -1,6 +1,6 @@
 # Hello World, my name's Kayo
 
-I'm 18 years old, passionate about programming, and I love creating new applications from my ideas. I also enjoy maintaining and updating my projects, as it makes me feel like I'm constantly improving them.
+I'm 19 years old, passionate about programming, and I love creating new applications from my ideas. I also enjoy maintaining and updating my projects, as it makes me feel like I'm constantly improving them.
 
 Please check out my portfolio by clicking: 
 <br>
@@ -26,6 +26,7 @@ Please check out my portfolio by clicking:
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+   <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
 <br>
