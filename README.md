@@ -29,21 +29,29 @@ Please check out my portfolio by clicking:
    <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
    <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-<br>
-
-In the future, I plan to study:
-<div style="display: inline_block">
- <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
-
-
 <br>
 
 ## Github stats
 
-![DevKayoS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKayoS&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DevKayoS&theme=radical)](https://git.io/streak-stats)
+<div align="center">  
+  <a href="https://github.com/Andreas-Pinheiro">
+    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevKayoS&show_icons=true&theme=tokyonight&hide_border=true" alt="Kayo Ribeiro's GitHub Streak Stats" /> 
+    <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=DevKayoS&theme=tokyonight&hide_border=true" alt="Kayo Ribeiro's GitHub Stats" />
+  </a>
+</div>
+
+<!--
+  Contributions Graph & Visitors Count
+-->
+<div align="center">
+  <a href="https://github.com/DevKayoS">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevKayoS&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width="10%" src="https://visitor-badge.laobi.icu/badge?page_id=DevKayoS" alt="Page Visitors" />
+  </a>
+</div>
+
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevKayoS&layout=compact&theme=radical)
 
