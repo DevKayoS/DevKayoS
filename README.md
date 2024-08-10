@@ -28,7 +28,14 @@ Please check out my portfolio by clicking:
   <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
    <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
 </div>
+<br>
+<br>
+
+<div>  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKayoS&layout=compact&theme=tokyonight&hide_border=true" alt="Kayo Ribeiro's GitHub Stats" />
+</div>  
 <br>
 
 ## Github stats
@@ -51,9 +58,6 @@ Please check out my portfolio by clicking:
 </div>
 
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevKayoS&layout=compact&theme=radical)
 
 
 
