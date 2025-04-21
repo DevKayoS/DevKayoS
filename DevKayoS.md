@@ -5,36 +5,6 @@
 💼 Buscando minha **primeira oportunidade na área de tecnologia**  
 🎯 Foco atual: **Golang**, **Node.js**, **DDD**, **Typescript**, **AWS** e **desenvolvimento Full Stack**
 
----
-
-## 🚀 Sobre mim
-
-- 💡 Comecei minha jornada em programação em 2020, durante o ensino médio técnico em **Desenvolvimento de Sistemas** na ETEC.  
-- 🧑‍💻 Sou certificado em **Node.js** (Udemy) e **.NET 8** (Rocketseat).  
-- 💻 Adoro resolver problemas desafiadores, como algoritmos de grafos ou design de APIs escaláveis.  
-- 📈 Pratico exercícios regularmente e gosto de manter uma rotina disciplinada.  
-- 🛠️ Experiência com tecnologias como **React**, **Fastify**, **Knex**, **TypeORM**, **Docker**, **Hyprland** e **Arch Linux**.  
-
----
-
-## 🌟 Projetos em destaque
-
-
-### [🔗 API Daily Diet](https://github.com/DevKayoS/daily-diet-api.git)
-> API para gerenciamento de refeições baseada no desafio **Rocketseat**.  
-> **Tecnologias**: Node.js, TypeScript, SQLite, Knex
-
-### [🔗 Clean Architecture com NestJS](https://github.com/DevKayoS/04-ddd-clean.git)
-> Projeto com arquitetura limpa separada em camadas: domínio, aplicação e infraestrutura.  
-> **Tecnologias**: NestJS, Docker, Vitest  
-
-### [🔗 API CashFlow](https://github.com/DevKayoS/CashFlow-Api.git)
-> API de controle de gastos baseado no desafio e aulas **Rocketseat**
-> Projeto com arquitetura limpa separada em camadas: domínio, aplicação e infraestrutura.  
-> **Tecnologias**: C#, .NET, Docker, MySql   
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
