@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Bacharelado em Ciência e Tecnologia** na **UFABC**  
 📚 Apaixonado por aprender e compartilhar conhecimento em **programação e tecnologia**  
-💼 Buscando minha **primeira oportunidade na área de tecnologia**  
+💼 Buscando se tornar um **desenvolvedor melhor**  
 🎯 Foco atual: **Golang**, **Node.js**, **DDD**, **Typescript**, **AWS** e **desenvolvimento Full Stack**
 
 ## 🛠️ Tecnologias e Ferramentas
